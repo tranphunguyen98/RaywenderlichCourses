@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimeFighter</string>
+    <string name="time_left">Left time: %s</string>
+    <string name="your_score">Your Score: %s</string>
+    <string name="tap">Tap</string>
+    <string name="about_menu">About</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="about_title">Time Fighter %s</string>
+    <string name="about_message">Created by Tran Phu Nguyen</string>
+</resources>
